@@ -1,0 +1,28 @@
+# Dependências
+**/node_modules
+
+# Variáveis de ambiente
+.env
+
+# Arquivos do Vite
+frontend/dist
+
+# Logs
+*.log
+npm-debug.log*
+
+# Banco de dados
+postgres/data
+
+# Dados do n8n
+n8n/data
+
+# Arquivos temporários
+.DS_Store
+Thumbs.db
+
+# VSCode
+.vscode
+
+# Docker
+*.pid
